@@ -15,7 +15,7 @@ cd base-bot-whatsapp
 
 2. Install dependencies<br />
 ```sh
-npm install
+npm i
 ```
 <br />
 
