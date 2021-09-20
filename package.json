@@ -1,0 +1,32 @@
+{
+  "name": "base-bot-whatapp",
+  "version": "0.0.1",
+  "description": "KARENA LU WIBU",
+  "main": "run.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "figlet": "^1.5.2"
+  },
+  "scripts": {
+    "start": "node run",
+    "test": "supervisor main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FERDIZ-afk/base-bot-whatsapp.git"
+  },
+  "keywords": [
+    "base",
+    "bot"
+  ],
+  "author": "FERDIZ-afk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FERDIZ-afk/base-bot-whatsapp/issues"
+  },
+  "homepage": "https://github.com/FERDIZ-afk/base-bot-whatsapp#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
